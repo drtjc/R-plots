@@ -8,3 +8,10 @@ editor_options:
 ---
 
 This document provides a comprehensive reference of how to generate grahical plots in R.
+
+$f(k) = {n \choose k} p^{k} (1-p)^{n-k}$
+
+$$X = \begin{bmatrix}1 & x_{1}\\
+1 & x_{2}\\
+1 & x_{3}
+\end{bmatrix}$$
